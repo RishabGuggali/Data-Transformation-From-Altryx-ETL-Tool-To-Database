@@ -6,7 +6,7 @@ Input file<br>
 <img src="2.png" width=700 height=400><br>
 
 The formula to get Age from Date of Birth<br>
-<img src="3.png"width=700 height=400><br>
+<img src="3.png" width=700 height=400><br>
 
 The formula to categorize Age Group <br>
 <img src="4.png" width=700 height=400><br>

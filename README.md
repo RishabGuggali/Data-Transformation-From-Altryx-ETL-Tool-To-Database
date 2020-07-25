@@ -1,6 +1,7 @@
 # Data_Transformation_From_Altryx_ETL_Tool_To_Database
-In this the Altryx ETL tool will take a user info CSV file as input and computes Age and categorizes each Age Group.<br> 
-<img src="1.png" class="img-responsive" alt=""> </div><br>
+In this the Altryx ETL tool will take a user info CSV file as input and computes Age and categorizes each Age Group.
+<br> 
+<img src="1.png" width=50 height=50> </div><br>
 
 Input file
 <img src="2.png" class="img-responsive" alt=""> </div>
